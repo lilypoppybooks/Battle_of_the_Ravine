@@ -4,6 +4,41 @@ A 1v1 army management scenario for Battle for Wesnoth. Humans face Orcs in a dea
 
 **No retreat. No mercy. Only one general walks away.**
 
+## Installation
+
+# Requirements
+Battle for Wesnoth 1.16 or later (1.18 recommended)
+
+No additional dependencies required
+
+# Installing the Scenario
+Download the repository from GitHub:
+
+Click the green "Code" button and select "Download ZIP", or
+
+Clone the repository using git clone https://github.com/lilypoppybooks/Battle_of_the_Ravine.git
+
+Extract the ZIP file (if you downloaded it)
+
+Locate your Wesnoth data/add-ons folder:
+
+On Windows: C:\Users\YourName\Documents\My Games\Wesnoth1.x\data\add-ons\
+
+On Linux: ~/.local/share/wesnoth/1.x/data/add-ons/
+
+On macOS: ~/Library/Application Support/Wesnoth_1.x/data/add-ons/
+
+Copy the entire Battle folder into the add-ons directory
+
+Launch Battle for Wesnoth
+
+The scenario should now appear in:
+
+Multiplayer → Custom Scenario (or Local Game → Custom Scenario)
+
+Look for "Battle of the Ravine"
+
+
 ## Concept
 
 Battle of the Ravine is a one-on-one strategic war simulation where you take command of either the Human Kingdom or the Orcish Horde. Each side fields a unique army with distinct strengths, weaknesses, and special abilities.
