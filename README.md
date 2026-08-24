@@ -2,6 +2,9 @@
 
 A 1v1 army management scenario for Battle for Wesnoth. Humans face Orcs in a deadly ravine clash. Command your troops, manage morale and stamina, and outsmart your opponent in brutal tactical warfare.
 
+<img width="886" height="441" alt="scenario-battle-of-the-ravine-1v1-humans-vs-orcs-no-v0-fydy6m3js7ih1" src="https://github.com/user-attachments/assets/ccbb061b-beab-41d0-a53b-d7f9a7370831" />
+
+
 **No retreat. No mercy. Only one general walks away.**
 
 ## Installation
